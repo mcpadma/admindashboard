@@ -1,0 +1,37 @@
+.left-menu-icon{
+	height: 20px;
+    margin-left: 10px;
+    margin-top: 15px;
+    display: block;
+}
+#left-logo-icon{
+	height: 25px;
+    margin-left: 23px;
+    margin-top: 15px;
+    display: block;
+}
+.custom-nav > li.active > a, .custom-nav > li.active > a:hover, .custom-nav > li.active > a:focus {
+    background-color: #1a2430;
+    color: #8BC34A;
+    border-left:5px solid #29c4f7;
+}
+.left-side-collapsed .logo-icon {
+    height: 51px;
+    margin-top: 0;
+    padding-top: 1px;
+    display: block !important;
+}
+.custom-nav > li.active > a, .custom-nav > li.active > a:hover, .custom-nav > li.active > a:focus {
+    background-color: #1a2430;
+    color: white;
+    border-left: 5px solid #29c4f7;
+}
+.maindiv div{
+border:2px solid #ccc;
+padding-left:-10px;
+
+}
+#logo{
+    height:52px;
+    width:80px;
+}
